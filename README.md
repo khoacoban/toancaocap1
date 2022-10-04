@@ -11,4 +11,4 @@
 ## Phản hồi từ đọc giả
 
 - [Để lại phản hồi](https://github.com/khoacoban/toancaocap1/issues)
-- [Gửi email](ffs@iuh.edu.vn)
+- [Gửi email](mailto:ffs@iuh.edu.vn)
