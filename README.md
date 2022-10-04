@@ -3,6 +3,7 @@
 - Tác giả: Võ Thị Thanh Hà
 - Nhà xuất bản Đại học Công nghiệp TP. HCM
 - Năm xuất bản: 2022
+- Email: ffs@iuh.edu.vn
 ## Các chứng minh
 
 ## Các sai sót
