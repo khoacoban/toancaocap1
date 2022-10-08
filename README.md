@@ -1,6 +1,9 @@
-<h1 align="center">Toán cao cấp 1<img width="10%" style="color:blue" src="figures/iuh.png" /></h1>
-
+<h1 align="center">Toán cao cấp 1\
+  <img width="10%" style="display = inline-block;
+	vertical-align:middle"  src="figures/iuh.png" /></h1>
+  
 -----
+
 ## Thông tin chung
 - Tác giả: Võ Thị Thanh Hà
 - Nhà xuất bản Đại học Công nghiệp TP. HCM
