@@ -1,7 +1,5 @@
-<h1 align="center">Toán cao cấp 1\
-  <img width="10%" style="display = inline-block;
-	vertical-align:middle"  src="figures/iuh.png" /></h1>
-  
+<h1 align="center"> <img width="10%" src="figures/iuh.png" /></h1>\
+<h1 align="center">Toán cao cấp 1</h1>
 -----
 
 ## Thông tin chung
