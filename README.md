@@ -1,4 +1,4 @@
-<h1 align="center">Toán cao cấp 1<img width="10%" src="figures/iuh.png" /></h1>
+<h1 align="center">Toán cao cấp 1<img width="10%" style="color:blue" src="figures/iuh.png" /></h1>
 
 -----
 ## Thông tin chung
