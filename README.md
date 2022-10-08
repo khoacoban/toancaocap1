@@ -8,6 +8,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
 
 <h1 align="center">Toán cao cấp 1<img width="10%" src="figures/iuh.png" /></h1>
 
+-----
 ## Thông tin chung
 - Tác giả: Võ Thị Thanh Hà
 - Nhà xuất bản Đại học Công nghiệp TP. HCM
