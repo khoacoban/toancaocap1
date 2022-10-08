@@ -15,10 +15,15 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
 - ISBN: 
 - Email: ffs@iuh.edu.vn
 -----
+
 ## Các chứng minh
+
 -----
+
 ## Các sai sót
+
 -----
+
 ## Phản hồi từ đọc giả
 [<i class="fa-solid fa-comments"></i> Phản hồi](https://github.com/khoacoban/toancaocap1/issues)\
 [<i class="fa-solid fa-envelope"></i> Email ](mailto:ffs@iuh.edu.vn)
