@@ -1,6 +1,4 @@
-<h1 align="center"> <img width="10%" src="figures/iuh.png" /></h1>\
-<h1 align="center">Toán cao cấp 1</h1>
-
+<img width="100%" src="figures/iuh.png" />
 
 -----
 
