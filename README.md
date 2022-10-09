@@ -2,7 +2,7 @@
 
 -----
 
-## Thông tin chung
+### Thông tin chung
 - Tác giả: Võ Thị Thanh Hà
 - Nhà xuất bản Đại học Công nghiệp TP. HCM
 - Năm xuất bản: 2022
@@ -11,14 +11,14 @@
 
 -----
 
-## Các chứng minh
+### Các chứng minh
 
 -----
 
-## Các sai sót
+### Các sai sót
 
 -----
 
-## Phản hồi từ đọc giả
+### Phản hồi từ đọc giả
 [<i class="fa-solid fa-comments"></i> Phản hồi](https://github.com/khoacoban/toancaocap1/issues)\
 [<i class="fa-solid fa-envelope"></i> Email ](mailto:ffs@iuh.edu.vn)
