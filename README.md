@@ -1,8 +1,6 @@
-<p style="text-align:center;"><img  width="20%" src="figures/iuh.png" alt="Logo"></p>
-<img width="20%" style="text-align:center;" src="figures/iuh.png" />
-
-Offered by *Mark Core* from **University of Southern California, Los Angeles**
-###### Course website: https://nld.ict.usc.edu/cs544-spring2020/
+<p align="center">
+  <img width="30%" src="figures/iuh.png">
+</p>
 
 -----
 
