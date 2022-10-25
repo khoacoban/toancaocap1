@@ -17,6 +17,8 @@
 |Tên tài liệu                      | Link tải về |
 |----------------------------------|-------------|
 |Bài tập trắc nghiệm toán cao cấp 1|[Tải file ](https://github.com/khoacoban/toancaocap1/raw/main/Bai_Tap_Toan_CC_1.pdf)|
+|Đề mẫu thi giữa kỳ|Tải file|
+|Đề mẫu thi cuối kỳ|Tải file|
 
 
 -----
