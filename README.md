@@ -14,6 +14,8 @@
 -----
 
 ### Bài tập toán cao cấp 1
+|Version         | Notes |
+|----------------|-------|
 [Tải file ](https://github.com/khoacoban/toancaocap1/raw/main/Bai_Tap_Toan_CC_1.pdf)
 
 -----
