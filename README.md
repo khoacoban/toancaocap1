@@ -16,8 +16,8 @@
 ### Bài tập toán cao cấp 1
 |Tên tài liệu           | Link tải về |
 |-----------------------|-------------|
-|Bài tập trắc nghiệm|  First release|
-[Tải file ](https://github.com/khoacoban/toancaocap1/raw/main/Bai_Tap_Toan_CC_1.pdf)
+|Bài tập trắc nghiệm    |  [Tải file ](https://github.com/khoacoban/toancaocap1/raw/main/Bai_Tap_Toan_CC_1.pdf)|
+
 
 -----
 
