@@ -3,6 +3,12 @@
 </p>
 
 -----
+### Nội dung thi 
+
+|  Năm học |Kỳ thi|Số câu|Nội dung|File mẫu|
+|-----------------|---------------|------------|---------|-------|
+|2022-2023<br>HK1|   Giữa kỳ |20 câu| - Tìm hàm ương đương<br>- Dùng VCB tính giới hạn<br>- Tính giới hạn có tham số <br>- Quy tắc L'Hopital<br>- Tính tích phân suy rộng loại 1<br>- Tính tích phân suy rộng loại 2<br> | |
+|2022-2023<br>HK1|    Cuối kỳ |25 câu| - Khảo sát sự hội tụ của tích phân có chứa tham số<br>- Câu hỏi lý thuyết về chuỗi số<br>- Tính tổng riêng phần<br>- Chuỗi số dương<br>- Chuỗi đan dấu<br>- Chuỗi đan dấu có tham số <br>- Tính chất hội tụ của 2 chuỗi<br>- CHuỗi có dấu bất kỳ<br>- Cực trị trị tự do<br>- Cực trị có điều kiện|    |
 
 ### Giáo trình toán cao cấp 1
 - Tác giả: Võ Thị Thanh Hà
